@@ -1,0 +1,24 @@
+{
+  "name": "twitch-bit-project",
+  "version": "1.0.0",
+  "description": "![Newsletter](https://user-images.githubusercontent.com/69332964/114803220-14269100-9d6d-11eb-9a3a-e92a637e5d79.png)",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless-mom/twitch-bit-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serverless-mom/twitch-bit-project/issues"
+  },
+  "homepage": "https://github.com/serverless-mom/twitch-bit-project#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "parse-multipart": "^1.0.4"
+  }
+}
